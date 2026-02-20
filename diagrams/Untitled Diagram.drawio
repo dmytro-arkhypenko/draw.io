@@ -1,9 +1,303 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.0">
-  <diagram name="Page-1" id="9cg269-GmNkLosHM-DO6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.0" pages="5">
+  <diagram name="Why Spike" id="9cg269-GmNkLosHM-DO6">
     <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="AI Assitant" vertex="1">
+          <mxGeometry height="80" width="80" x="475" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Explain Spike Across XC Files" vertex="1">
+          <mxGeometry height="110" width="110" x="630" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-3" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x3QAKYc8Odr5kmv_gYls-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-5" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="x3QAKYc8Odr5kmv_gYls-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-6" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="x3QAKYc8Odr5kmv_gYls-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Access to Principia source code" vertex="1">
+          <mxGeometry height="130" width="130" x="20" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Principia documentation in a form of pdf" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-9" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" target="x3QAKYc8Odr5kmv_gYls-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-10" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x3QAKYc8Odr5kmv_gYls-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-12" edge="1" parent="1" source="x3QAKYc8Odr5kmv_gYls-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="x3QAKYc8Odr5kmv_gYls-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3QAKYc8Odr5kmv_gYls-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QHc1D2cn4vg_RVC3eV3U" name="Why Not BB">
+    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="AI Assitant" vertex="1">
+          <mxGeometry height="80" width="80" x="495" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Explain the difference between Bloomberg and XC&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="110" x="650" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-3" edge="1" parent="1" source="r08TCvs-vgrbUTBH2yR2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="r08TCvs-vgrbUTBH2yR2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-5" edge="1" parent="1" source="r08TCvs-vgrbUTBH2yR2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="r08TCvs-vgrbUTBH2yR2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-6" edge="1" parent="1" source="r08TCvs-vgrbUTBH2yR2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="r08TCvs-vgrbUTBH2yR2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Access to Principia source code" vertex="1">
+          <mxGeometry height="130" width="130" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Principia documentation in a form of pdf" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-9" edge="1" parent="1" source="r08TCvs-vgrbUTBH2yR2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" target="r08TCvs-vgrbUTBH2yR2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-10" edge="1" parent="1" source="r08TCvs-vgrbUTBH2yR2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="r08TCvs-vgrbUTBH2yR2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r08TCvs-vgrbUTBH2yR2-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="BB Screenshot" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r2hNat6aniUp-3BpOuNb" name="Fill Gaps">
+    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="AI Assitant" vertex="1">
+          <mxGeometry height="80" width="80" x="505" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Fill the gaps in XC" vertex="1">
+          <mxGeometry height="110" width="110" x="720" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reason about XC" vertex="1">
+          <mxGeometry height="110" width="110" x="710" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Reason about FI Pricing" vertex="1">
+          <mxGeometry height="90" width="90" x="720" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Reason about YC Bootstraping" vertex="1">
+          <mxGeometry height="80" width="80" x="725" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-6" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1Ej9qJinmH_ZxHGvJU2C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-8" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Ej9qJinmH_ZxHGvJU2C-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-9" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Ej9qJinmH_ZxHGvJU2C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-10" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Ej9qJinmH_ZxHGvJU2C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-11" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Ej9qJinmH_ZxHGvJU2C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-12" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1Ej9qJinmH_ZxHGvJU2C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Access to Principia source code" vertex="1">
+          <mxGeometry height="130" width="130" x="50" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Principia documentation in a form of pdf" vertex="1">
+          <mxGeometry height="80" width="80" x="50" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ej9qJinmH_ZxHGvJU2C-15" edge="1" parent="1" source="1Ej9qJinmH_ZxHGvJU2C-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Ej9qJinmH_ZxHGvJU2C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xVhSAnSIe8Oikixn6q4j" name="Components 1">
+    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FTIOebxPiSEFTyzU57q_-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="AI Assitant" vertex="1">
+          <mxGeometry height="80" width="80" x="485" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Fill the gaps in XC" vertex="1">
+          <mxGeometry height="80" width="80" x="700" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reason about XC" vertex="1">
+          <mxGeometry height="80" width="80" x="690" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Reason about FI Pricing" vertex="1">
+          <mxGeometry height="80" width="80" x="690" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Reason about YC Bootstraping" vertex="1">
+          <mxGeometry height="80" width="80" x="690" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-6" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FTIOebxPiSEFTyzU57q_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="30" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-8" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-9" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-10" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-11" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-12" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FTIOebxPiSEFTyzU57q_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Access to Principia source code" vertex="1">
+          <mxGeometry height="80" width="80" x="30" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Principia documentation in a form of pdf" vertex="1">
+          <mxGeometry height="80" width="80" x="30" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-15" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;strokeColor=#FF3333;" value="C# App" vertex="1">
+          <mxGeometry height="130" width="130" x="460" y="-820" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-17" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" value="LLM Model in Azure" vertex="1">
+          <mxGeometry height="100" width="175" x="430" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-18" edge="1" parent="1" source="FTIOebxPiSEFTyzU57q_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" target="FTIOebxPiSEFTyzU57q_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Tool for .xls or whatever XC artifact type" vertex="1">
+          <mxGeometry height="80" width="80" x="230" y="-790" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-20" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00CC00;" value="Source code access tool" vertex="1">
+          <mxGeometry height="80" width="80" x="230" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Tool for docs (eg RAG)" vertex="1">
+          <mxGeometry height="80" width="80" x="477.5" y="-622.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;" value="nuget" vertex="1">
+          <mxGeometry height="115" width="115" x="460" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;strokeColor=#FF3333;" value="C# App - MCP server" vertex="1">
+          <mxGeometry height="122.5" width="122.5" x="202.5" y="-816.25" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIOebxPiSEFTyzU57q_-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="MCP for excel editing" vertex="1">
+          <mxGeometry height="80" width="80" x="590" y="-940" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g5HOsUsSiNbjvzkmc0bu" name="Components 2">
+    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="AI Assitant" vertex="1">
+          <mxGeometry height="80" width="80" x="465" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Fill the gaps in XC" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Reason about XC" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Reason about FI Pricing" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Reason about YC Bootstraping" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-6" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PeMnOy5zBBec8EwuUkyv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="XC .xls or artifact" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-8" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-9" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-10" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-11" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-12" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="PeMnOy5zBBec8EwuUkyv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Access to Principia source code" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" value="Principia documentation in a form of pdf" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-15" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;strokeColor=#FF3333;" value="Excel" vertex="1">
+          <mxGeometry height="130" width="130" x="440" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-17" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" value="LLM Model" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-18" edge="1" parent="1" source="PeMnOy5zBBec8EwuUkyv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" target="PeMnOy5zBBec8EwuUkyv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Tool for .xls or whatever XC artifact type" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-20" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00CC00;" value="Source code access tool" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Tool for docs (eg RAG)" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;" value="nuget" vertex="1">
+          <mxGeometry height="115" width="115" x="190" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="PeMnOy5zBBec8EwuUkyv-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;verticalAlign=top;align=left;strokeColor=#FF3333;" value="Excel Web Add-in&amp;nbsp;" vertex="1">
+          <mxGeometry height="122.5" width="122.5" x="182.5" y="343.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
